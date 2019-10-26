@@ -10,5 +10,5 @@ depend: [Slimefun]
 
 permissions:
   PrivateStorage.bypass:
-    description: Allows to open all Safes
+    description: Разрешение на открытие всех хранилищ
     default: false
